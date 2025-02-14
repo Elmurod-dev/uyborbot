@@ -1,0 +1,6 @@
+.idea/
+.venv/
+.env/
+bot_main.log
+.gitignore
+test.py
