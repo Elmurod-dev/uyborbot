@@ -4,3 +4,4 @@
 bot_main.log
 .gitignore
 test.py
+__pycache__
